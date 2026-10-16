@@ -1,4 +1,4 @@
-# Ember & Oak — Restaurant POS & Order Management
+# Ember & Oak — Restaurant POS & Order Management-100% made with chatgpt and claude
 
 Web POS for restaurants/cafés: menu management, dine-in/takeaway orders, server-verified billing, payment recording, order workflow, and a daily sales dashboard.
 
